@@ -6,9 +6,14 @@
 	"installed_packages":
 	[
 		"Block Cursor Everywhere",
+		"C Improved",
 		"Emmet",
+		"Google Stylesheets Syntax",
+		"Highlight Build Errors",
+		"LaTeXBox",
 		"Neon Color Scheme",
 		"Package Control",
+		"Shader Syntax (GLSL HLSL Cg)",
 		"Vintageous"
 	]
 }
