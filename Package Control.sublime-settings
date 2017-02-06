@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"3D Tool (Async Burst-Mode)",
 		"Block Cursor Everywhere",
 		"C Improved",
 		"Emmet",
+		"Emmet Css Snippets",
 		"Google Stylesheets Syntax",
 		"Highlight Build Errors",
 		"LaTeXBox",
